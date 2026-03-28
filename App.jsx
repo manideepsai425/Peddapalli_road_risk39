@@ -506,4 +506,10 @@ export default function App() {
                     {/* Best route card */}
 </div>
   )}
+</div>
+</div>
+);
+}
+
+export default App;
         
