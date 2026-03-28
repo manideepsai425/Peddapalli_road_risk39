@@ -504,4 +504,6 @@ export default function App() {
                     </h3>
 
                     {/* Best route card */}
+</div>
+  )}
         
